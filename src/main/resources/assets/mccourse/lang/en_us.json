@@ -1,4 +1,8 @@
 {
     "item.mccourse.iron_needle": "Iron Needle",
-    "item.mccourse.bone_needle": "Bone Needle"
+    "item.mccourse.bone_needle": "Bone Needle",
+    "item.mccourse.phial": "Phial",
+    "item.mccourse.phial_needle": "Phial With Needle",
+    "item.mccourse.phial_full": "Phial Full",
+    "item.mccourse.ingredient_phial": "Ingredient Phial"
 }
