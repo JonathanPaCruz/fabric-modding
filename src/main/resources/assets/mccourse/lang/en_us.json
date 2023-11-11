@@ -4,5 +4,6 @@
     "item.mccourse.phial": "Phial",
     "item.mccourse.phial_needle": "Phial With Needle",
     "item.mccourse.phial_full": "Phial Full",
-    "item.mccourse.ingredient_phial": "Ingredient Phial"
+    "item.mccourse.ingredient_phial": "Ingredient Phial",
+    "block.mccourse.gravel_iron_ore": "Gravel Iron Ore"
 }
