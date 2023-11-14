@@ -23,6 +23,8 @@ public class ModItems {
                         new Item(new FabricItemSettings().maxCount(1)));
         public static final Item PHIAL_FULL = registerItem("phial_full",
                         new Item(new FabricItemSettings().maxCount(1)));
+        public static final Item RAW_XP_ORE = registerItem("raw_xp_ore",
+                        new Item(new FabricItemSettings()));
         // Item creativo
         public static final Item INGREDIENT_PHIAL = registerItem("ingredient_phial",
                         new Item(new FabricItemSettings().maxCount(1)));
