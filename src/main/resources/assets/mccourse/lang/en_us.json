@@ -1,9 +1,20 @@
 {
-    "item.mccourse.iron_needle": "Iron Needle",
-    "item.mccourse.bone_needle": "Bone Needle",
-    "item.mccourse.phial": "Phial",
-    "item.mccourse.phial_needle": "Phial With Needle",
-    "item.mccourse.phial_full": "Phial Full",
-    "item.mccourse.ingredient_phial": "Ingredient Phial",
-    "block.mccourse.gravel_iron_ore": "Gravel Iron Ore"
+  "item.mccourse.iron_needle": "Iron Needle",
+  "item.mccourse.bone_needle": "Bone Needle",
+  "item.mccourse.phial": "Phial",
+  "item.mccourse.phial_needle": "Phial and Needle",
+  "item.mccourse.phial_full": "Phial Full",
+  "item.mccourse.ingredient_phial": "Ingredient Phial",
+  "item.mccourse.raw_xp_ore": "Raw Xp Ore",
+
+  "block.mccourse.gravel_iron_ore": "Gravel Iron Ore",
+  "block.mccourse.gravel_coal_ore": "Gravel Coal Ore",
+  "block.mccourse.sand_iron_ore": "Sand Iron Ore",
+  "block.mccourse.sand_coal_ore": "Sand Coal Ore",
+  "block.mccourse.redsand_iron_ore": "Redsand Iron Ore",
+  "block.mccourse.redsand_coal_ore": "Redsand Coal Ore",
+  "block.mccourse.solid_experience_block": "Solid Experience",
+  "block.mccourse.solid_experience_crop": "Solid Experience Crop",
+
+  "itemgroup.mccourse_fabric_group": "MCCourse"
 }
