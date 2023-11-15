@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "mccourse:item/phial_full_otx"
+    "layer0": "mccourse:item/raw_xp_ore"
   }
 }

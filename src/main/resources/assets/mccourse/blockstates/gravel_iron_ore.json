@@ -1,7 +1,7 @@
 {
-    "variants": {
-        "":{
-            "model": "mccourse:block/gravel_iron_ore"
-        }
+  "variants": {
+    "": {
+      "model": "mccourse:block/gravel_iron_ore"
     }
+  }
 }
