@@ -5,10 +5,13 @@ import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.jodatrash.mccourse.MCCourseMod;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
+import net.minecraft.block.MapColor;
+import net.minecraft.block.enums.Instrument;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
+import net.minecraft.sound.BlockSoundGroup;
 import net.minecraft.util.Identifier;
 
 public class ModBlocks {
@@ -26,9 +29,11 @@ public class ModBlocks {
         public static final Block REDSAND_COAL_ORE = registerBlock("redsand_coal_ore",
                         new Block(FabricBlockSettings.copyOf(Blocks.SAND)));
         public static final Block SOLID_EXPERIENCE_BLOCK = registerBlock("solid_experience_block",
-                        new Block(FabricBlockSettings.copyOf(Blocks.AMETHYST_BLOCK)));
+                        new Block(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK)));
         public static final Block SOLID_EXPERIENCE_CROP = registerBlock("solid_experience_crop",
-                        new Block(FabricBlockSettings.copyOf(Blocks.AMETHYST_BLOCK)));
+                        new Block(FabricBlockSettings
+                                        .copyOf(Blocks.GRAVEL)
+                                        .sounds(BlockSoundGroup.AMETHYST_BLOCK)));
 
         // Create a register to the block
         private static Block registerBlock(String name, Block block) {
